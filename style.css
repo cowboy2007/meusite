@@ -71,7 +71,7 @@ body {
     padding: 50px;
 }
 
-.estudante-todos {
+.estudantes-todos {
     display: grid;
     grid-template-columns:33% 33% 33% ;
 }
